@@ -223,7 +223,7 @@ class Index extends React.Component {
           ? <p>or <Link to="play">resume the existing one</Link></p>
           : null}
         <p>The code of this game is on&nbsp;
-        <a href="https://github.com/andreynering/sudoku" target="_blank">GitHub</a></p>
+        <a href="https://github.com/CodeMaster1025/sudoku" target="_blank">GitHub</a></p>
       </div>
     );
   }
